@@ -1,6 +1,6 @@
 # **Plataforma digital para la comercialización directa de excedentes agrícolas**
 
-## Prototipo funcional (Figma)
+## Prototipo funcional Desarrollado en Figma
 **Enlace al prototipo interactivo:**
 [https://www.figma.com/proto/0rkHHLX3ZZT8Ajk2IxbivC/Fase4-ProyectoDeGrado-AndersonRodriguez?node-id=2-6&p=f&t=9fmE5ewGO7LLHWgi-8&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A6&show-proto-sidebar=1&hide-ui=1](https://www.figma.com/proto/0rkHHLX3ZZT8Ajk2IxbivC/Fase4-ProyectoDeGrado-AndersonRodriguez?node-id=2-6&p=f&t=9fmE5ewGO7LLHWgi-8&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A6&show-proto-sidebar=1&hide-ui=1)
 
