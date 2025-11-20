@@ -92,6 +92,14 @@ Finalmente, la metodología permitió planificar un **despliegue piloto acompañ
 
 Estas imágenes permitirán visualizar con mayor claridad la estructura, el flujo de interacción y las pantallas principales que conforman la experiencia de usuario del sistema plataforma Digital.
 
+![Pantalla inicio](https://raw.githubusercontent.com/Andersoncrs/Propuesta_Ingenieril_proyecto_de_grado/refs/heads/main/landing_page.png)
+
+![Pantalla registro](https://raw.githubusercontent.com/Andersoncrs/Propuesta_Ingenieril_proyecto_de_grado/refs/heads/main/registro.png)
+
+![Pantalla login](https://raw.githubusercontent.com/Andersoncrs/Propuesta_Ingenieril_proyecto_de_grado/refs/heads/main/login.png)
+
+![Pantalla Home](https://raw.githubusercontent.com/Andersoncrs/Propuesta_Ingenieril_proyecto_de_grado/refs/heads/main/home.png)
+
 ---
 
 ## Agradecimiento
